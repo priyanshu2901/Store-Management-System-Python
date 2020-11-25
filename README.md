@@ -1,4 +1,4 @@
-# Store-Management-System-Python
+# GUI based Store-Management-System-Python
 
 This program is a store management system, this program gives you various operation like:
 
